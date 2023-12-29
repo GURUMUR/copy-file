@@ -34,9 +34,9 @@ f1.write(content)
 print("The content that is been copied to the new file is:",content)
 ```
 ### OUTPUT:
-![out1](copy_text(1).png)
-![out2](copy_text(2).png)
-![out3](copy_text(3).png)
+![copy_text(1)](https://github.com/GURUMUR/copy-file/assets/144895197/d2392221-c147-417a-bef7-c46befb2a760)
+![copy_text(2)](https://github.com/GURUMUR/copy-file/assets/144895197/08b81954-0536-485d-914a-fcd44e6844dd)
+![copy_text(3)](https://github.com/GURUMUR/copy-file/assets/144895197/7c514caa-9548-4962-995d-37a7b4cf1942)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
